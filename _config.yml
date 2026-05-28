@@ -1,0 +1,17 @@
+title: "GCC Domestic — 2026 Flagship Resources"
+description: "Open, free-to-cite reference data for hiring domestic workers across the 6 GCC countries."
+theme: jekyll-theme-cayman
+url: "https://akembalo-svg.github.io"
+baseurl: "/gcc-domestic-2026-flagship"
+markdown: kramdown
+
+include:
+  - docs
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
